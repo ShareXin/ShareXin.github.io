@@ -6,33 +6,17 @@ title: Translation
 ## What you need to know
 
 * Fluency in English
-* Good understanding of ShareX settings so that during translation you know exactly what you are translating
+* Good understanding of ShareXin so that during translation you know exactly what you are translating
 * How to use GitHub so you can pull/push translations
 * Good patience - because translation can take long time and can be boring
 * Please refrain from using machine translation e.g. Google Translate
 
 ## How to start translating?
 
-We are using [ResX Resource Manager](https://github.com/tom-englert/ResXResourceManager) Visual Studio extension when translating to other languages:
+I am using a custom YAML-based translation system. You can base your translation on this [en.yml](https://github.com/ShareXin/ShareXin/blob/a206ccf135065a7c22868d9191e093c3ab83705b/lang/en.yml) file.
 
-[https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager)
+Anything after ":" on each line is the sentence you may edit.
+Please do not edit any of the words before the ":".
 
-Standalone version of it also exist here:
-
-[https://github.com/tom-englert/ResXResourceManager/releases](https://github.com/tom-englert/ResXResourceManager/releases) (Publish.zip)
-
-Screenshot of it:
-
-![](/img/ScreenshotTranslation.png)
-
-You just need to use this software/extension and set columns to your language.
-
-When committing you must make sure only your language files are committed. For example, if you are translating to German then the only `*.de.resx` files should be committed and not `*.resx` because English translation files should never be changed.
-
-`Properties\Resources.resx` files contains hard coded string translations which means these texts used in codes.
-
-Some fields do not require translation:
-
-![](/img/ScreenshotTranslation2.png)
-
-They are marked as "Invariant" in software/extension which makes them gray. But sometimes when the form is edited in Visual Studio form designer, these "Invariant" marks can get removed automatically and there is no solution for it.
+The file name for your translation will be based on the [ISO-639-1/ISO-639-2](https://datahub.io/core/language-codes) standard.
+If you believe your specific dialect/language is different enough from other dialects/languages in your country listed under [UTF-8 locales](https://docs.moodle.org/dev/Table_of_locales), then in your pull request, please explain why the difference is significant enough.

@@ -1,7 +1,7 @@
 $(document).ready(function () {
     var repo = GetParameterByName("repo");
     if (!repo) {
-        repo = "ShareX/ShareX";
+        repo = "ShareXin/ShareXin";
     }
     GetReleases(repo);
 });
