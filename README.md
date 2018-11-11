@@ -1,3 +1,3 @@
-Website of ShareX
+Website of ShareXin
 
-https://getsharex.com
+https://sharexin.github.io

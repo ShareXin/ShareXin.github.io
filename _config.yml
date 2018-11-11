@@ -1,12 +1,12 @@
-name: ShareX
-title: ShareX - Screen capture, file sharing and productivity tool
-description: ShareX is an open source program that lets you take screenshots or screencasts of any selected area with a single key, save them in your clipboard, hard disk or instantly upload them to over 80 different file hosting services.
-url: https://getsharex.com
-author: ShareX Team
-github: https://github.com/ShareX/ShareX
-twitter: GetShareX
-googleAnalyticsId: UA-40712139-3
-addThisId: 53e2d1c30114f995
+name: ShareXin
+title: ShareXin - ShareX for Linux and FreeBSD
+description: ShareX-like application that lets you take a screenshot, and send it to either Twitter, a Mastodon instance, or Imgur.
+url: https://sharexin.github.io
+author: TheBitStick
+github: https://github.com/ShareXin/ShareXin
+twitter: makotoadmirer
+googleAnalyticsId: UA-105358353-1
+addThisId:
 
 encoding: utf-8
 markdown: kramdown

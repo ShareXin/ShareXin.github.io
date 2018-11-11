@@ -1,57 +1,7 @@
 [
   {
-    "DateTime": "2018-06-25T00:00:00Z",
-    "Text": "ShareX 12.2.0 has been released.",
-    "URL": "https://getsharex.com/changelog"
-  },
-  {
-    "DateTime": "2018-03-22T00:00:00Z",
-    "Text": "If .NET Framework 4.5 or higher is not installed, auto updater will not be able to detect new updates. Because of this Windows XP and Vista is not supported anymore. Click here for more info.",
-    "URL": "https://github.com/ShareX/ShareX/issues/3201"
-  },
-  {
-    "DateTime": "2018-03-22T00:00:00Z",
-    "Text": "ShareX 12.1.0 has been released.",
-    "URL": "https://getsharex.com/changelog"
-  },
-  {
-    "DateTime": "2017-11-30T00:00:00Z",
-    "Text": "ShareX 12.0.0 has been released.",
-    "URL": "https://getsharex.com/changelog"
-  },
-  {
-    "DateTime": "2017-08-22T00:00:00Z",
-    "Text": "ShareX project celebrates it's 10th anniversary!",
-    "URL": "https://twitter.com/GetShareX/status/900052984704495617"
-  },
-  {
-    "DateTime": "2017-08-11T00:00:00Z",
-    "Text": "ShareX has been released on Windows Store!",
-    "URL": "https://www.microsoft.com/store/apps/9nblggh4z1sp"
-  },
-  {
-    "DateTime": "2017-08-11T00:00:00Z",
-    "Text": "ShareX 11.9.0 has been released.",
-    "URL": "https://getsharex.com/changelog"
-  },
-  {
-    "DateTime": "2017-07-04T00:00:00Z",
-    "Text": "ShareX 11.8.0 has been released.",
-    "URL": "https://getsharex.com/changelog"
-  },
-  {
-    "DateTime": "2017-04-14T00:00:00Z",
-    "Text": "We now have a Discord server!",
-    "URL": "https://discord.gg/E4R3Qa9"
-  },
-  {
-    "DateTime": "2016-06-10T00:00:00Z",
-    "Text": "We now have a Patreon page!",
-    "URL": "https://www.patreon.com/ShareX"
-  },
-  {
-    "DateTime": "2015-10-02T00:00:00Z",
-    "Text": "ShareX has been released on Steam!",
-    "URL": "http://store.steampowered.com/app/400040/"
+    "DateTime": "2018-11-11T00:00:00Z",
+    "Text": "ShareXin website!!!",
+    "URL": "https://sharexin.github.io"
   }
 ]
