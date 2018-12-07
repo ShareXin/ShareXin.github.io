@@ -3,6 +3,9 @@ layout: markdown
 title: Changelog
 ---
 
+#### [0.7.1] - 2018-12-07
+- Uh, TMPDIR is bork
+
 #### [0.7.0] - 2018-12-07
 - Flatpak works on GNOME Wayland/X11 systems
 - Flatpak integrates gnome-screenshot and feh
