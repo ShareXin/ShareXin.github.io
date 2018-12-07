@@ -3,6 +3,10 @@ layout: markdown
 title: Changelog
 ---
 
+#### [0.6.9] - 2018-11-16
+- Removed Clipboard functionality (doesn't work under Wayland)
+- Flatpak fixes
+
 #### [0.6.8] - 2018-11-02
 - Moved anything in `cmd.rs` to `main.rs` (main only called cmd anyways)
 - Moved anything in `save.rs` to `image.rs`
